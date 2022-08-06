@@ -1,7 +1,8 @@
+### Healthcheck
 GET http://localhost:4000/v1/healthcheck
 
-###
-POST http://localhost:4000/v1/movieso
+### Create Movie
+POST http://localhost:4000/v1/movies
 
-###
+### Get Movie by ID
 GET http://localhost:4000/v1/movies/123
