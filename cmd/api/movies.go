@@ -6,6 +6,7 @@ import (
 	"time"
 
 	"greenlight.jundy.com/internal/data"
+	"greenlight.jundy.com/internal/validator"
 )
 
 // Add a createMovieHandler for the "POST /v1/movies" endpoint. For now we simply
